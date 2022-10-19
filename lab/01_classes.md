@@ -111,7 +111,7 @@ print(f"{p1}, {p2}")
 
 Zaimplementuj klasę w Pythonie:
 
-![kosmita](./img/kosmita.png)
+![kosmita](/img/kosmita.png)
 
 * Kosmita powinien posiadać zmienną `name` do przechowywania jego imienia.
 * Kosmita powinien posiadać zmienną `age` do przechowywania jego wieku.
@@ -121,7 +121,7 @@ Zaimplementuj klasę w Pythonie:
 
 Zaimplementuj klasę w Pythonie:
 
-![rakieta](./img/rakieta.png)
+![rakieta](/img/rakieta.png)
 
 * Rakieta powinna posiadać zmienną `mass`.
 * Rakieta powinna posiadać zmienną `fuel`.
@@ -131,7 +131,7 @@ Zaimplementuj klasę w Pythonie:
 
 Zaimplementuj klasę w Pythonie:
 
-![pudelko](./img/pudelko.png)
+![pudelko](/img/pudelko.png)
 
 * Pudełko powinno posiadać zmienną `size` do przechowywania jego rozmiaru (w formie krotki: LENGTH, WIDTH, HEIGHT).
 * Ilość obiektów przechowywana przez pudełko, powinna być ograniczona przez jego rozmiar (zmienna `size`). 
