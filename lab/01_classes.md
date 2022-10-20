@@ -68,10 +68,7 @@ class Student:
         print(f"Hello! My name is {self.name} and my GPA is {self.gpa}/4.0 .")
 
 # Tworzenie nowego obiektu
-s1 = Student()
-# Przypisanie wartości dla zmiennej name "znajdującej się" w obiekcie s1
-s1.name = 'Paul'
-s1.gpa = 5
+s1 = Student('Jordan', 4.0)
 # Wywołanie funkcji (metody) obiektu s1
 s1.introduce()
 ```
