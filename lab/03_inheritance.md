@@ -137,7 +137,7 @@ class PaidUser(FreeUser):
         if self.tier == 'hobbyist':
             print("Do paid stuff for hobbyist.")
         elif self.tier == 'professional':
-            print("Do paid stuff for professionas.")
+            print("Do paid stuff for professionals.")
         elif self.tier == 'corporate':
             print("Do paid stuff for corporate.")
             
