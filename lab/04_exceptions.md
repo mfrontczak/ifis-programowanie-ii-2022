@@ -48,6 +48,7 @@ except (FileNotFoundError, IOError, OSError) as e:
     # jakaś obsługa błędu FileNotFoundError lub IOError lub OSError
 ```
 
+
 📖 Proszę przeczytać https://docs.python.org/3.9/library/exceptions.html, aby dowiedzieć się więcej.
 
 📖 Proszę przeczytać https://docs.python.org/3.9/library/exceptions.html#exception-hierarchy, aby dowiedzieć się więcej.
