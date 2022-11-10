@@ -77,6 +77,12 @@ print(f"Zeszyt Arnolda formatu {arnolds_notebook.paper_size} służy mu do przed
 print(f"Zeszyt Jimmiego formatu {jimmys_notebook.paper_size} służy mu do przedmiotu {jimmys_notebook.subject}")
 ```
 
+
+**Zadanie**
+
+✏️ Napisz klasę `Student` z atrybutami `imie`, `nazwisko`, `nr_albumu`, `rok`.
+✏️ Utwórz listę studentów i wyświetl na ekranie informacje o nich.
+
 ### Badanie typu obiektu
 Do sprawdzenia czy dany obiekt jest powiązany z klasą używamy wbudowanej funkcji `isinstance(object, classinfo)`.
 https://docs.python.org/3/library/functions.html#isinstance
