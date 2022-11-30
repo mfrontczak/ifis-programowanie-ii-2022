@@ -74,6 +74,8 @@ Wykorzystanie `yield` w przeciwieństwie do wyrażen listowych, pozwala nam na u
 
 💡 w zadanich wykorzystaj moduł https://docs.python.org/3/library/string.html.
 
+✏️ Utwórz iterator z dowolnego łańcucha znakowego, a następnie przeiteruj po wszystkich jego elementach.
+
 ✏️ Stwórz generator który będzie zwracał losowe znaki.
 
 ✏️ Stwórz generator który będzie przyjmował listę imion, a następnie zwróci każdę pisane dużymi literami. Utwórz generator i wywołaj na listcie (`list`) i na zbiorze (`set`). 
