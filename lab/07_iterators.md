@@ -28,6 +28,8 @@ for (i, r) in gen_exp:
     
 ```
 
+### Zadania
+
 💡 w zadanich wykorzystaj moduł https://docs.python.org/3/library/string.html.
 
 ✏️ Stwórz generator który będzie zwracał kolejne litery alfabetu.
@@ -67,3 +69,12 @@ print(list(arr))  # obsługa generatora poprzez zrzutowanie go na listę.
 W tym przykładzie wywołanie `power(arr, 2)` zwraca generator. To znaczy, że do momentu wykonania na nim iteracji, nie nastąpi zwrócenia żadnej wartości.
 
 Wykorzystanie `yield` w przeciwieństwie do wyrażen listowych, pozwala nam na utworzenie nieskończonego generatora. 
+
+### Zadania
+
+💡 w zadanich wykorzystaj moduł https://docs.python.org/3/library/string.html.
+
+✏️ Stwórz generator który będzie zwracał losowe znaki.
+
+✏️ Stwórz generator który będzie przyjmował listę imion, a następnie zwróci każdę pisane dużymi literami. Utwórz generator i wywołaj na listcie (`list`) i na zbiorze (`set`). 
+
