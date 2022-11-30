@@ -80,4 +80,6 @@ Wykorzystanie `yield` w przeciwieństwie do wyrażen listowych, pozwala nam na u
 
 ✏️ Stwórz generator który będzie przyjmował listę imion, a następnie zwróci każdę pisane dużymi literami. Utwórz generator i wywołaj na listcie (`list`) i na zbiorze (`set`). 
 
-✏️ Zbuduj klasę `SeqSentence`, która przyjmie jako argument zdanie. Następnie zaimplementuj odpowiednie metody specjalne aby można było użyć `in` i `for` na obiekcie klasy.
+✏️ Zbuduj klasę `SeqSentence`, która przyjmie jako argument zdanie. Następnie zaimplementuj odpowiednie metody specjalne aby można było użyć `in` i `for` na obiekcie klasy - iteracja w pętli for powinna zwracać kolejna słowa z zdania.
+
+✏️ Zbuduj klasę `SeqSentence2`, która przyjmie jako argument zdanie. Następnie zaimplementuj odpowiednie metody specjalne aby można było użyć `for` na obiekcie klasy (wykorzystaj `yield` aby zbudować generator) - iteracja w pętli for powinna zwracać kolejna słowa z zdania.
