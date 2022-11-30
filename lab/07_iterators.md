@@ -32,7 +32,10 @@ for (i, r) in gen_exp:
 
 💡 w zadanich wykorzystaj moduł https://docs.python.org/3/library/string.html.
 
-✏️ Stwórz generator który będzie zwracał kolejne litery alfabetu.
+✏️ Stwórz wyrażenie generatorowe które będzie zwracało kolejne litery alfabetu.
+
+✏️ Stwórz wyrażenie generatorowe które zwróci wartości od 1 do 5.
+
 
 ### Generatory
 Funkcja generatora pamięta swój stan jaki posiadała w poprzednim wywołaniu. Generatory są często wykorzystywane w momencie kiedy przetwarzamy sekwencje które są bardzo długie, a w danym momencie nie interesuje nas jako całość, a jedynie jej elementy.
@@ -77,6 +80,8 @@ Wykorzystanie `yield` w przeciwieństwie do wyrażen listowych, pozwala nam na u
 ✏️ Utwórz iterator z dowolnego łańcucha znakowego, a następnie przeiteruj po wszystkich jego elementach.
 
 ✏️ Stwórz generator który będzie zwracał losowe znaki.
+
+✏️ Stwórz generator który zwróci 3 dowolne wartości, spróbuj wywołać go przy pomocy `next` 4 razy.
 
 ✏️ Stwórz generator który będzie przyjmował listę imion, a następnie zwróci każdę pisane dużymi literami. Utwórz generator i wywołaj na listcie (`list`) i na zbiorze (`set`). 
 
