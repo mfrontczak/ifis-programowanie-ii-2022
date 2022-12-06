@@ -18,7 +18,7 @@
 - [Laboratorium 05 - obsługa plików](lab/05_files_serialization.md)
 - [Laboratorium 06 - dekoratory funkcji i klas](lab/06_decorators.md)
 - [Laboratorium 07 - iteratory i generatory](lab/07_iterators.md)
-- [Laboratorium 08 - moduły i pakiety, zarządzanie środowiskiem](#)
+- [Laboratorium 08 - moduły i pakiety, zarządzanie środowiskiem](lab/08_modules_packages.md)
 - [Laboratorium 09 - GUI w Pythonie](#)
 - [Laboratorium 10 - Projekt](#)
 
