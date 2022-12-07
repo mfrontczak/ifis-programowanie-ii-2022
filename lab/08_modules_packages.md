@@ -77,3 +77,28 @@ if __name__ == "__main__":
 ✏️ Stwórz kolejny moduł w którym znajdą się funkcję do liczenia odchylenia standardowego. 
 
 ✏️ Napisz skrypt który wykorzysta funkcje z poprzednio utworzonych modułów. Użytkownik powinien móc wprowadzić dane z klawiatury.
+
+## Paczka
+
+Zbiór modułów(i nie tylko) które chcemy udostępnić w ramach naszej paczki.
+
+### Tworzenie paczki
+
+* Stwórz folder o dowolnej nazwie: np. `up_krakow`.
+* Utwórz pusty plik `__init__.py`
+* Utwórz moduły które chcesz udostępnić np. `lab01.py`
+
+### Importowanie
+Następnie aby z importować utworzoną paczkę znajdującą się w tym samym folderze głównym:
+
+```python
+from .up_krakow.lab01 import zad1  # import relatywny
+
+zad1()
+```
+
+📖 Proszę przeczytać https://www.geeksforgeeks.org/python-packages/, aby dowiedzieć się więcej.
+
+### Zadania 
+
+✏️ Stwórz paczkę w której udostępnisz zadania z poszczególnych laboratoriów. Zadania powinny znajdować się w odpowiednich modułach zgodnych z wzorem lab*.py gdzie * to numer laboratorium. Udostępnij tylko Funkcje i klasy które były stworzone w ramach laboratoriów. 
