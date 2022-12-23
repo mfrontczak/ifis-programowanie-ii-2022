@@ -19,8 +19,8 @@
 - [Laboratorium 06 - dekoratory funkcji i klas](lab/06_decorators.md)
 - [Laboratorium 07 - iteratory i generatory](lab/07_iterators.md)
 - [Laboratorium 08 - moduły i pakiety, zarządzanie środowiskiem](lab/08_modules_packages.md)
-- [Laboratorium 09 - GUI w Pythonie](#)
-- [Laboratorium 10 - Projekt](#)
+- [Laboratorium 09 - GUI w Pythonie](lab/09_gui.md)
+- [Laboratorium 10 - Projekt](lab/10_project.md)
 
 ## przydatne linki
 - https://www.python.org/doc/
