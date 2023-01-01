@@ -24,6 +24,8 @@ if __name__ == "__main__":
     
 ```        
 
+✏️ Pomocny tutorial: https://realpython.com/python-gui-tkinter/
+
 ### Thread
 Wątkiem w programowaniu nazywamy kod który wykonuje się równolegle względem innego kodu wykonywanego w naszym programie. Niestety (albo stety 🙂), Python symuluje wątki, co pozwala na wykonywanie ich w systemach jednoprocesorowych, jak i wieloprocesorowych bez zmiany kodu, co ma to też wpływ na obniżoną wydajność. 
 
